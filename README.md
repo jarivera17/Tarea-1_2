@@ -34,8 +34,9 @@ en un circuito eléctrico, con los equipos adecuados.
 ![Frame 3](https://user-images.githubusercontent.com/116693260/201054714-90eaffde-efe3-4e1b-b978-35c91074cf92.jpg)
 ![Frame 2](https://user-images.githubusercontent.com/116693260/201054738-9680f1cf-b62d-4a74-8245-066f3a63a2ef.jpg)
 ![Frame 4](https://user-images.githubusercontent.com/116693260/201054874-b1bda017-1bb7-490b-be97-f0fa5ab480b6.jpg)
+![Frame 6](https://user-images.githubusercontent.com/116693260/201233308-1f89d035-2885-4f61-b2f8-67dcca39064e.jpg)
 
-  3. EXPLICACION Y RESOLUCION DE EJERCICIOS O PROBLEMAS
+  3. EXPLICACION Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
   
 
   SECCIÓN 1–2 Notación científica 
@@ -95,6 +96,7 @@ en un circuito eléctrico, con los equipos adecuados.
   ![image](https://user-images.githubusercontent.com/116693260/201060340-3a0d6bfe-0a23-438b-afc8-40de2df334d1.png)
 
   28. Determine lo siguiente:
+  
   (a) El número de microamperes en 1 miliampere
   
   ![image](https://user-images.githubusercontent.com/116693260/201060467-c4ac5571-56c7-4bcd-a379-4c3bed2d9162.png)
@@ -127,11 +129,11 @@ en un circuito eléctrico, con los equipos adecuados.
 
   SECCIÓN 2–3 Voltaje, corriente y resistencia
 
-  6. Se utilizan quinientos joules de energía para mover 100 C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
+  6. Se utilizan quinientos joules de energía para mover 100C de carga por un resistor. ¿Cuál es el voltaje a través del resistor?
   
   ![image](https://user-images.githubusercontent.com/116693260/201061807-3e9feb3a-46df-4de3-b534-7f39bdae4498.png)
 
-  8. ¿Cuánta energía utiliza una batería de 12 V para mover 2.5 C por un circuito?
+  8. ¿Cuánta energía utiliza una batería de 12V para mover 2.5C por un circuito?
   
   ![image](https://user-images.githubusercontent.com/116693260/201061859-5c82d18b-bdc8-4780-aef4-b8ff95067244.png)
 
@@ -139,11 +141,11 @@ en un circuito eléctrico, con los equipos adecuados.
   
   ![image](https://user-images.githubusercontent.com/116693260/201061951-b31c4013-d349-4a2e-9c81-83cdd4faa0bc.png)
 
-  12. ¿Cuánto tiempo requieren 10 C para fluir más allá de un punto si la corriente es de 5 A?
+  12. ¿Cuánto tiempo requieren 10C para fluir más allá de un punto si la corriente es de 5A?
   
   ![image](https://user-images.githubusercontent.com/116693260/201062043-091d5a42-5ce0-49f9-afc6-c5c76a7a161e.png)
 
-  14. 5.74x10^17 electrones fluyen por un alambre en 250 ms. ¿Cuál es la corriente en amperes?
+  14. 5.74x10^17 electrones fluyen por un alambre en 250ms. ¿Cuál es la corriente en amperes?
   
   ![image](https://user-images.githubusercontent.com/116693260/201062253-49fec2f9-97de-4eb8-99b2-df640f784da4.png)
 
@@ -154,9 +156,12 @@ en un circuito eléctrico, con los equipos adecuados.
   SECCIÓN 2–4 Fuentes de voltaje y de corriente
 
   18. ¿En qué principio se basan los generadores eléctricos?
+  
   Se basa en el principio llamado inducción electromagnética
   
-  ![image](https://user-images.githubusercontent.com/116693260/201062616-9ab2f8d3-64be-4192-aa13-f437e7984b58.png)
+  20. Cierta fuente de corriente proporciona 100mA a 1kΩ de carga. Si la resistencia disminuye a 500Ω, ¿cuál es la corriente en la carga?
+  
+  ![image](https://user-images.githubusercontent.com/116693260/201233607-6de9bf81-8780-4ff1-a202-db33fc37d686.png)
   
   SECCIÓN 2–5 Resistores
 
@@ -172,7 +177,9 @@ en un circuito eléctrico, con los equipos adecuados.
   
   ![image](https://user-images.githubusercontent.com/116693260/201063028-90721e73-83c5-4df9-85b4-86bc4dccb982.png)
   
-  ![image](https://user-images.githubusercontent.com/116693260/201063130-1bde48b6-d8c7-4ba4-9d35-b3105142102f.png)
+  28. El contacto ajustable de un potenciómetro lineal se coloca en el centro mecánico de su ajuste. Si la resistencia total es de 1000Ω, ¿cuál es la resistencia entre       cada terminal y el contacto ajustable? 
+
+  La resistencia entre cada terminal y el contacto ajustable es de 500Ω.
 
   30. Determine la resistencia y la tolerancia de cada resistor rotulado como sigue:
   
